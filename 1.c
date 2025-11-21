@@ -17,7 +17,7 @@ int main() {
     int sum = p+c+m+e+h;
     float percent = sum / 5.0f;
 
-    printf("The sum marks in all subjects is %d and your percentage is %f.",sum,percent);
+    printf("The sum of marks in all subjects is %d and your percentage is %f.",sum,percent);
 
     return 0;
 }
